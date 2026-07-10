@@ -1,0 +1,2 @@
+# DecodeLabs_Data_Analytics_Project_1_
+DATA CLEANING AND PREPARATION
