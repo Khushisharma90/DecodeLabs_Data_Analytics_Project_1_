@@ -1,5 +1,5 @@
 # DecodeLabs_Data_Analytics_Project_1_
-DATA CLEANING AND PREPARATION
+"E-commerce Data Cleaning, Documentation, and Analysis Dashboard.
 # Data Cleaning & Manipulation Pipeline (Project-1)
 
 ## 📌 Project Overview
